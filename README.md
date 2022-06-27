@@ -15,3 +15,5 @@ visualise historically the number of accidents per category (column1). The datas
   Type: 'insgesamt
   Year: '2021'
   Month: '01'
+
+Packages :Python: :Azure:.
