@@ -1,547 +1,505 @@
 ﻿,MONATSZAHL,AUSPRAEGUNG,JAHR,MONAT,WERT
-25,Alkoholunfälle,insgesamt,2020,Summe,430.0
-26,Alkoholunfälle,insgesamt,2020,202001,28.0
-27,Alkoholunfälle,insgesamt,2020,202002,40.0
-28,Alkoholunfälle,insgesamt,2020,202003,27.0
-29,Alkoholunfälle,insgesamt,2020,202004,26.0
-30,Alkoholunfälle,insgesamt,2020,202005,40.0
-31,Alkoholunfälle,insgesamt,2020,202006,49.0
-32,Alkoholunfälle,insgesamt,2020,202007,58.0
-33,Alkoholunfälle,insgesamt,2020,202008,46.0
-34,Alkoholunfälle,insgesamt,2020,202009,46.0
-35,Alkoholunfälle,insgesamt,2020,202010,34.0
-36,Alkoholunfälle,insgesamt,2020,202011,23.0
-37,Alkoholunfälle,insgesamt,2020,202012,13.0
-38,Alkoholunfälle,insgesamt,2019,Summe,434.0
-39,Alkoholunfälle,insgesamt,2019,201901,22.0
-40,Alkoholunfälle,insgesamt,2019,201902,28.0
-41,Alkoholunfälle,insgesamt,2019,201903,34.0
-42,Alkoholunfälle,insgesamt,2019,201904,36.0
-43,Alkoholunfälle,insgesamt,2019,201905,39.0
-44,Alkoholunfälle,insgesamt,2019,201906,40.0
-45,Alkoholunfälle,insgesamt,2019,201907,48.0
-46,Alkoholunfälle,insgesamt,2019,201908,31.0
-47,Alkoholunfälle,insgesamt,2019,201909,47.0
-48,Alkoholunfälle,insgesamt,2019,201910,45.0
-49,Alkoholunfälle,insgesamt,2019,201911,29.0
-50,Alkoholunfälle,insgesamt,2019,201912,35.0
-51,Alkoholunfälle,insgesamt,2018,Summe,398.0
-52,Alkoholunfälle,insgesamt,2018,201801,22.0
-53,Alkoholunfälle,insgesamt,2018,201802,24.0
-54,Alkoholunfälle,insgesamt,2018,201803,32.0
-55,Alkoholunfälle,insgesamt,2018,201804,25.0
-56,Alkoholunfälle,insgesamt,2018,201805,34.0
-57,Alkoholunfälle,insgesamt,2018,201806,39.0
-58,Alkoholunfälle,insgesamt,2018,201807,51.0
-59,Alkoholunfälle,insgesamt,2018,201808,40.0
-60,Alkoholunfälle,insgesamt,2018,201809,36.0
-61,Alkoholunfälle,insgesamt,2018,201810,43.0
-62,Alkoholunfälle,insgesamt,2018,201811,31.0
-63,Alkoholunfälle,insgesamt,2018,201812,21.0
-64,Alkoholunfälle,insgesamt,2017,Summe,409.0
-65,Alkoholunfälle,insgesamt,2017,201701,19.0
-66,Alkoholunfälle,insgesamt,2017,201702,22.0
-67,Alkoholunfälle,insgesamt,2017,201703,36.0
-68,Alkoholunfälle,insgesamt,2017,201704,26.0
-69,Alkoholunfälle,insgesamt,2017,201705,29.0
-70,Alkoholunfälle,insgesamt,2017,201706,41.0
-71,Alkoholunfälle,insgesamt,2017,201707,52.0
-72,Alkoholunfälle,insgesamt,2017,201708,30.0
-73,Alkoholunfälle,insgesamt,2017,201709,47.0
-74,Alkoholunfälle,insgesamt,2017,201710,32.0
-75,Alkoholunfälle,insgesamt,2017,201711,33.0
-76,Alkoholunfälle,insgesamt,2017,201712,42.0
-77,Alkoholunfälle,insgesamt,2016,Summe,301.0
-78,Alkoholunfälle,insgesamt,2016,201601,21.0
-79,Alkoholunfälle,insgesamt,2016,201602,10.0
-80,Alkoholunfälle,insgesamt,2016,201603,20.0
-81,Alkoholunfälle,insgesamt,2016,201604,27.0
-82,Alkoholunfälle,insgesamt,2016,201605,25.0
-83,Alkoholunfälle,insgesamt,2016,201606,30.0
-84,Alkoholunfälle,insgesamt,2016,201607,35.0
-85,Alkoholunfälle,insgesamt,2016,201608,34.0
-86,Alkoholunfälle,insgesamt,2016,201609,29.0
-87,Alkoholunfälle,insgesamt,2016,201610,30.0
-88,Alkoholunfälle,insgesamt,2016,201611,20.0
-89,Alkoholunfälle,insgesamt,2016,201612,20.0
-90,Alkoholunfälle,insgesamt,2015,Summe,411.0
-91,Alkoholunfälle,insgesamt,2015,201501,22.0
-92,Alkoholunfälle,insgesamt,2015,201502,23.0
-93,Alkoholunfälle,insgesamt,2015,201503,23.0
-94,Alkoholunfälle,insgesamt,2015,201504,29.0
-95,Alkoholunfälle,insgesamt,2015,201505,50.0
-96,Alkoholunfälle,insgesamt,2015,201506,39.0
-97,Alkoholunfälle,insgesamt,2015,201507,49.0
-98,Alkoholunfälle,insgesamt,2015,201508,49.0
-99,Alkoholunfälle,insgesamt,2015,201509,45.0
-100,Alkoholunfälle,insgesamt,2015,201510,25.0
-101,Alkoholunfälle,insgesamt,2015,201511,30.0
-102,Alkoholunfälle,insgesamt,2015,201512,27.0
-103,Alkoholunfälle,insgesamt,2014,Summe,382.0
-104,Alkoholunfälle,insgesamt,2014,201401,21.0
-105,Alkoholunfälle,insgesamt,2014,201402,17.0
-106,Alkoholunfälle,insgesamt,2014,201403,37.0
-107,Alkoholunfälle,insgesamt,2014,201404,35.0
-108,Alkoholunfälle,insgesamt,2014,201405,28.0
-109,Alkoholunfälle,insgesamt,2014,201406,31.0
-110,Alkoholunfälle,insgesamt,2014,201407,35.0
-111,Alkoholunfälle,insgesamt,2014,201408,32.0
-112,Alkoholunfälle,insgesamt,2014,201409,43.0
-113,Alkoholunfälle,insgesamt,2014,201410,36.0
-114,Alkoholunfälle,insgesamt,2014,201411,42.0
-115,Alkoholunfälle,insgesamt,2014,201412,25.0
-116,Alkoholunfälle,insgesamt,2013,Summe,377.0
-117,Alkoholunfälle,insgesamt,2013,201301,17.0
-118,Alkoholunfälle,insgesamt,2013,201302,15.0
-119,Alkoholunfälle,insgesamt,2013,201303,21.0
-120,Alkoholunfälle,insgesamt,2013,201304,28.0
-121,Alkoholunfälle,insgesamt,2013,201305,33.0
-122,Alkoholunfälle,insgesamt,2013,201306,37.0
-123,Alkoholunfälle,insgesamt,2013,201307,42.0
-124,Alkoholunfälle,insgesamt,2013,201308,39.0
-125,Alkoholunfälle,insgesamt,2013,201309,47.0
-126,Alkoholunfälle,insgesamt,2013,201310,31.0
-127,Alkoholunfälle,insgesamt,2013,201311,35.0
-128,Alkoholunfälle,insgesamt,2013,201312,32.0
-129,Alkoholunfälle,insgesamt,2012,Summe,440.0
-130,Alkoholunfälle,insgesamt,2012,201201,21.0
-131,Alkoholunfälle,insgesamt,2012,201202,18.0
-132,Alkoholunfälle,insgesamt,2012,201203,21.0
-133,Alkoholunfälle,insgesamt,2012,201204,34.0
-134,Alkoholunfälle,insgesamt,2012,201205,54.0
-135,Alkoholunfälle,insgesamt,2012,201206,43.0
-136,Alkoholunfälle,insgesamt,2012,201207,56.0
-137,Alkoholunfälle,insgesamt,2012,201208,55.0
-138,Alkoholunfälle,insgesamt,2012,201209,49.0
-139,Alkoholunfälle,insgesamt,2012,201210,32.0
-140,Alkoholunfälle,insgesamt,2012,201211,30.0
-141,Alkoholunfälle,insgesamt,2012,201212,27.0
-142,Alkoholunfälle,insgesamt,2011,Summe,397.0
-143,Alkoholunfälle,insgesamt,2011,201101,25.0
-144,Alkoholunfälle,insgesamt,2011,201102,25.0
-145,Alkoholunfälle,insgesamt,2011,201103,22.0
-146,Alkoholunfälle,insgesamt,2011,201104,43.0
-147,Alkoholunfälle,insgesamt,2011,201105,43.0
-148,Alkoholunfälle,insgesamt,2011,201106,27.0
-149,Alkoholunfälle,insgesamt,2011,201107,39.0
-150,Alkoholunfälle,insgesamt,2011,201108,34.0
-151,Alkoholunfälle,insgesamt,2011,201109,36.0
-152,Alkoholunfälle,insgesamt,2011,201110,26.0
-153,Alkoholunfälle,insgesamt,2011,201111,40.0
-154,Alkoholunfälle,insgesamt,2011,201112,37.0
-155,Alkoholunfälle,insgesamt,2010,Summe,402.0
-156,Alkoholunfälle,insgesamt,2010,201001,19.0
-157,Alkoholunfälle,insgesamt,2010,201002,23.0
-158,Alkoholunfälle,insgesamt,2010,201003,31.0
-159,Alkoholunfälle,insgesamt,2010,201004,33.0
-160,Alkoholunfälle,insgesamt,2010,201005,34.0
-161,Alkoholunfälle,insgesamt,2010,201006,39.0
-162,Alkoholunfälle,insgesamt,2010,201007,48.0
-163,Alkoholunfälle,insgesamt,2010,201008,40.0
-164,Alkoholunfälle,insgesamt,2010,201009,54.0
-165,Alkoholunfälle,insgesamt,2010,201010,27.0
-166,Alkoholunfälle,insgesamt,2010,201011,28.0
-167,Alkoholunfälle,insgesamt,2010,201012,26.0
-168,Alkoholunfälle,insgesamt,2009,Summe,430.0
-169,Alkoholunfälle,insgesamt,2009,200901,23.0
-170,Alkoholunfälle,insgesamt,2009,200902,32.0
-171,Alkoholunfälle,insgesamt,2009,200903,14.0
-172,Alkoholunfälle,insgesamt,2009,200904,45.0
-173,Alkoholunfälle,insgesamt,2009,200905,57.0
-174,Alkoholunfälle,insgesamt,2009,200906,31.0
-175,Alkoholunfälle,insgesamt,2009,200907,44.0
-176,Alkoholunfälle,insgesamt,2009,200908,35.0
-177,Alkoholunfälle,insgesamt,2009,200909,49.0
-178,Alkoholunfälle,insgesamt,2009,200910,35.0
-179,Alkoholunfälle,insgesamt,2009,200911,31.0
-180,Alkoholunfälle,insgesamt,2009,200912,34.0
-181,Alkoholunfälle,insgesamt,2008,Summe,482.0
-182,Alkoholunfälle,insgesamt,2008,200801,32.0
-183,Alkoholunfälle,insgesamt,2008,200802,30.0
-184,Alkoholunfälle,insgesamt,2008,200803,30.0
-185,Alkoholunfälle,insgesamt,2008,200804,25.0
-186,Alkoholunfälle,insgesamt,2008,200805,57.0
-187,Alkoholunfälle,insgesamt,2008,200806,56.0
-188,Alkoholunfälle,insgesamt,2008,200807,52.0
-189,Alkoholunfälle,insgesamt,2008,200808,44.0
-190,Alkoholunfälle,insgesamt,2008,200809,49.0
-191,Alkoholunfälle,insgesamt,2008,200810,45.0
-192,Alkoholunfälle,insgesamt,2008,200811,27.0
-193,Alkoholunfälle,insgesamt,2008,200812,35.0
-194,Alkoholunfälle,insgesamt,2007,Summe,560.0
-195,Alkoholunfälle,insgesamt,2007,200701,36.0
-196,Alkoholunfälle,insgesamt,2007,200702,32.0
-197,Alkoholunfälle,insgesamt,2007,200703,38.0
-198,Alkoholunfälle,insgesamt,2007,200704,49.0
-199,Alkoholunfälle,insgesamt,2007,200705,63.0
-200,Alkoholunfälle,insgesamt,2007,200706,51.0
-201,Alkoholunfälle,insgesamt,2007,200707,65.0
-202,Alkoholunfälle,insgesamt,2007,200708,44.0
-203,Alkoholunfälle,insgesamt,2007,200709,54.0
-204,Alkoholunfälle,insgesamt,2007,200710,55.0
-205,Alkoholunfälle,insgesamt,2007,200711,36.0
-206,Alkoholunfälle,insgesamt,2007,200712,37.0
-207,Alkoholunfälle,insgesamt,2006,Summe,599.0
-208,Alkoholunfälle,insgesamt,2006,200601,44.0
-209,Alkoholunfälle,insgesamt,2006,200602,50.0
-210,Alkoholunfälle,insgesamt,2006,200603,40.0
-211,Alkoholunfälle,insgesamt,2006,200604,40.0
-212,Alkoholunfälle,insgesamt,2006,200605,53.0
-213,Alkoholunfälle,insgesamt,2006,200606,51.0
-214,Alkoholunfälle,insgesamt,2006,200607,64.0
-215,Alkoholunfälle,insgesamt,2006,200608,48.0
-216,Alkoholunfälle,insgesamt,2006,200609,64.0
-217,Alkoholunfälle,insgesamt,2006,200610,45.0
-218,Alkoholunfälle,insgesamt,2006,200611,48.0
-219,Alkoholunfälle,insgesamt,2006,200612,52.0
-220,Alkoholunfälle,insgesamt,2005,Summe,600.0
-221,Alkoholunfälle,insgesamt,2005,200501,48.0
-222,Alkoholunfälle,insgesamt,2005,200502,40.0
-223,Alkoholunfälle,insgesamt,2005,200503,40.0
-224,Alkoholunfälle,insgesamt,2005,200504,40.0
-225,Alkoholunfälle,insgesamt,2005,200505,48.0
-226,Alkoholunfälle,insgesamt,2005,200506,57.0
-227,Alkoholunfälle,insgesamt,2005,200507,63.0
-228,Alkoholunfälle,insgesamt,2005,200508,48.0
-229,Alkoholunfälle,insgesamt,2005,200509,76.0
-230,Alkoholunfälle,insgesamt,2005,200510,57.0
-231,Alkoholunfälle,insgesamt,2005,200511,42.0
-232,Alkoholunfälle,insgesamt,2005,200512,41.0
-233,Alkoholunfälle,insgesamt,2004,Summe,659.0
-234,Alkoholunfälle,insgesamt,2004,200401,42.0
-235,Alkoholunfälle,insgesamt,2004,200402,48.0
-236,Alkoholunfälle,insgesamt,2004,200403,44.0
-237,Alkoholunfälle,insgesamt,2004,200404,37.0
-238,Alkoholunfälle,insgesamt,2004,200405,55.0
-239,Alkoholunfälle,insgesamt,2004,200406,58.0
-240,Alkoholunfälle,insgesamt,2004,200407,67.0
-241,Alkoholunfälle,insgesamt,2004,200408,58.0
-242,Alkoholunfälle,insgesamt,2004,200409,79.0
-243,Alkoholunfälle,insgesamt,2004,200410,68.0
-244,Alkoholunfälle,insgesamt,2004,200411,51.0
-245,Alkoholunfälle,insgesamt,2004,200412,52.0
-246,Alkoholunfälle,insgesamt,2003,Summe,730.0
-247,Alkoholunfälle,insgesamt,2003,200301,55.0
-248,Alkoholunfälle,insgesamt,2003,200302,44.0
-249,Alkoholunfälle,insgesamt,2003,200303,53.0
-250,Alkoholunfälle,insgesamt,2003,200304,50.0
-251,Alkoholunfälle,insgesamt,2003,200305,65.0
-252,Alkoholunfälle,insgesamt,2003,200306,82.0
-253,Alkoholunfälle,insgesamt,2003,200307,76.0
-254,Alkoholunfälle,insgesamt,2003,200308,66.0
-255,Alkoholunfälle,insgesamt,2003,200309,63.0
-256,Alkoholunfälle,insgesamt,2003,200310,74.0
-257,Alkoholunfälle,insgesamt,2003,200311,44.0
-258,Alkoholunfälle,insgesamt,2003,200312,58.0
-259,Alkoholunfälle,insgesamt,2002,Summe,803.0
-260,Alkoholunfälle,insgesamt,2002,200201,44.0
-261,Alkoholunfälle,insgesamt,2002,200202,49.0
-262,Alkoholunfälle,insgesamt,2002,200203,61.0
-263,Alkoholunfälle,insgesamt,2002,200204,65.0
-264,Alkoholunfälle,insgesamt,2002,200205,58.0
-265,Alkoholunfälle,insgesamt,2002,200206,74.0
-266,Alkoholunfälle,insgesamt,2002,200207,84.0
-267,Alkoholunfälle,insgesamt,2002,200208,71.0
-268,Alkoholunfälle,insgesamt,2002,200209,107.0
-269,Alkoholunfälle,insgesamt,2002,200210,83.0
-270,Alkoholunfälle,insgesamt,2002,200211,44.0
-271,Alkoholunfälle,insgesamt,2002,200212,63.0
-272,Alkoholunfälle,insgesamt,2001,Summe,848.0
-273,Alkoholunfälle,insgesamt,2001,200101,66.0
-274,Alkoholunfälle,insgesamt,2001,200102,49.0
-275,Alkoholunfälle,insgesamt,2001,200103,63.0
-276,Alkoholunfälle,insgesamt,2001,200104,68.0
-277,Alkoholunfälle,insgesamt,2001,200105,85.0
-278,Alkoholunfälle,insgesamt,2001,200106,68.0
-279,Alkoholunfälle,insgesamt,2001,200107,71.0
-280,Alkoholunfälle,insgesamt,2001,200108,60.0
-281,Alkoholunfälle,insgesamt,2001,200109,107.0
-282,Alkoholunfälle,insgesamt,2001,200110,77.0
-283,Alkoholunfälle,insgesamt,2001,200111,68.0
-284,Alkoholunfälle,insgesamt,2001,200112,66.0
-285,Alkoholunfälle,insgesamt,2000,Summe,934.0
-286,Alkoholunfälle,insgesamt,2000,200001,78.0
-287,Alkoholunfälle,insgesamt,2000,200002,53.0
-288,Alkoholunfälle,insgesamt,2000,200003,73.0
-289,Alkoholunfälle,insgesamt,2000,200004,78.0
-290,Alkoholunfälle,insgesamt,2000,200005,96.0
-291,Alkoholunfälle,insgesamt,2000,200006,57.0
-292,Alkoholunfälle,insgesamt,2000,200007,99.0
-293,Alkoholunfälle,insgesamt,2000,200008,77.0
-294,Alkoholunfälle,insgesamt,2000,200009,84.0
-295,Alkoholunfälle,insgesamt,2000,200010,83.0
-296,Alkoholunfälle,insgesamt,2000,200011,71.0
-297,Alkoholunfälle,insgesamt,2000,200012,85.0
-323,Alkoholunfälle,Verletzte und Getötete,2020,Summe,250.0
-324,Alkoholunfälle,Verletzte und Getötete,2020,202001,11.0
-325,Alkoholunfälle,Verletzte und Getötete,2020,202002,19.0
-326,Alkoholunfälle,Verletzte und Getötete,2020,202003,13.0
-327,Alkoholunfälle,Verletzte und Getötete,2020,202004,15.0
-328,Alkoholunfälle,Verletzte und Getötete,2020,202005,26.0
-329,Alkoholunfälle,Verletzte und Getötete,2020,202006,30.0
-330,Alkoholunfälle,Verletzte und Getötete,2020,202007,43.0
-331,Alkoholunfälle,Verletzte und Getötete,2020,202008,29.0
-332,Alkoholunfälle,Verletzte und Getötete,2020,202009,24.0
-333,Alkoholunfälle,Verletzte und Getötete,2020,202010,20.0
-334,Alkoholunfälle,Verletzte und Getötete,2020,202011,11.0
-335,Alkoholunfälle,Verletzte und Getötete,2020,202012,9.0
-336,Alkoholunfälle,Verletzte und Getötete,2019,Summe,227.0
-337,Alkoholunfälle,Verletzte und Getötete,2019,201901,7.0
-338,Alkoholunfälle,Verletzte und Getötete,2019,201902,7.0
-339,Alkoholunfälle,Verletzte und Getötete,2019,201903,22.0
-340,Alkoholunfälle,Verletzte und Getötete,2019,201904,18.0
-341,Alkoholunfälle,Verletzte und Getötete,2019,201905,21.0
-342,Alkoholunfälle,Verletzte und Getötete,2019,201906,24.0
-343,Alkoholunfälle,Verletzte und Getötete,2019,201907,34.0
-344,Alkoholunfälle,Verletzte und Getötete,2019,201908,23.0
-345,Alkoholunfälle,Verletzte und Getötete,2019,201909,20.0
-346,Alkoholunfälle,Verletzte und Getötete,2019,201910,20.0
-347,Alkoholunfälle,Verletzte und Getötete,2019,201911,19.0
-348,Alkoholunfälle,Verletzte und Getötete,2019,201912,12.0
-349,Alkoholunfälle,Verletzte und Getötete,2018,Summe,182.0
-350,Alkoholunfälle,Verletzte und Getötete,2018,201801,8.0
-351,Alkoholunfälle,Verletzte und Getötete,2018,201802,13.0
-352,Alkoholunfälle,Verletzte und Getötete,2018,201803,12.0
-353,Alkoholunfälle,Verletzte und Getötete,2018,201804,8.0
-354,Alkoholunfälle,Verletzte und Getötete,2018,201805,23.0
-355,Alkoholunfälle,Verletzte und Getötete,2018,201806,14.0
-356,Alkoholunfälle,Verletzte und Getötete,2018,201807,29.0
-357,Alkoholunfälle,Verletzte und Getötete,2018,201808,18.0
-358,Alkoholunfälle,Verletzte und Getötete,2018,201809,22.0
-359,Alkoholunfälle,Verletzte und Getötete,2018,201810,16.0
-360,Alkoholunfälle,Verletzte und Getötete,2018,201811,13.0
-361,Alkoholunfälle,Verletzte und Getötete,2018,201812,6.0
-362,Alkoholunfälle,Verletzte und Getötete,2017,Summe,176.0
-363,Alkoholunfälle,Verletzte und Getötete,2017,201701,4.0
-364,Alkoholunfälle,Verletzte und Getötete,2017,201702,4.0
-365,Alkoholunfälle,Verletzte und Getötete,2017,201703,15.0
-366,Alkoholunfälle,Verletzte und Getötete,2017,201704,10.0
-367,Alkoholunfälle,Verletzte und Getötete,2017,201705,16.0
-368,Alkoholunfälle,Verletzte und Getötete,2017,201706,27.0
-369,Alkoholunfälle,Verletzte und Getötete,2017,201707,18.0
-370,Alkoholunfälle,Verletzte und Getötete,2017,201708,14.0
-371,Alkoholunfälle,Verletzte und Getötete,2017,201709,22.0
-372,Alkoholunfälle,Verletzte und Getötete,2017,201710,16.0
-373,Alkoholunfälle,Verletzte und Getötete,2017,201711,13.0
-374,Alkoholunfälle,Verletzte und Getötete,2017,201712,17.0
-375,Alkoholunfälle,Verletzte und Getötete,2016,Summe,144.0
-376,Alkoholunfälle,Verletzte und Getötete,2016,201601,6.0
-377,Alkoholunfälle,Verletzte und Getötete,2016,201602,3.0
-378,Alkoholunfälle,Verletzte und Getötete,2016,201603,6.0
-379,Alkoholunfälle,Verletzte und Getötete,2016,201604,8.0
-380,Alkoholunfälle,Verletzte und Getötete,2016,201605,17.0
-381,Alkoholunfälle,Verletzte und Getötete,2016,201606,19.0
-382,Alkoholunfälle,Verletzte und Getötete,2016,201607,23.0
-383,Alkoholunfälle,Verletzte und Getötete,2016,201608,12.0
-384,Alkoholunfälle,Verletzte und Getötete,2016,201609,22.0
-385,Alkoholunfälle,Verletzte und Getötete,2016,201610,11.0
-386,Alkoholunfälle,Verletzte und Getötete,2016,201611,7.0
-387,Alkoholunfälle,Verletzte und Getötete,2016,201612,10.0
-388,Alkoholunfälle,Verletzte und Getötete,2015,Summe,225.0
-389,Alkoholunfälle,Verletzte und Getötete,2015,201501,21.0
-390,Alkoholunfälle,Verletzte und Getötete,2015,201502,3.0
-391,Alkoholunfälle,Verletzte und Getötete,2015,201503,9.0
-392,Alkoholunfälle,Verletzte und Getötete,2015,201504,23.0
-393,Alkoholunfälle,Verletzte und Getötete,2015,201505,30.0
-394,Alkoholunfälle,Verletzte und Getötete,2015,201506,19.0
-395,Alkoholunfälle,Verletzte und Getötete,2015,201507,37.0
-396,Alkoholunfälle,Verletzte und Getötete,2015,201508,29.0
-397,Alkoholunfälle,Verletzte und Getötete,2015,201509,25.0
-398,Alkoholunfälle,Verletzte und Getötete,2015,201510,12.0
-399,Alkoholunfälle,Verletzte und Getötete,2015,201511,11.0
-400,Alkoholunfälle,Verletzte und Getötete,2015,201512,6.0
-401,Alkoholunfälle,Verletzte und Getötete,2014,Summe,167.0
-402,Alkoholunfälle,Verletzte und Getötete,2014,201401,4.0
-403,Alkoholunfälle,Verletzte und Getötete,2014,201402,7.0
-404,Alkoholunfälle,Verletzte und Getötete,2014,201403,16.0
-405,Alkoholunfälle,Verletzte und Getötete,2014,201404,15.0
-406,Alkoholunfälle,Verletzte und Getötete,2014,201405,19.0
-407,Alkoholunfälle,Verletzte und Getötete,2014,201406,16.0
-408,Alkoholunfälle,Verletzte und Getötete,2014,201407,21.0
-409,Alkoholunfälle,Verletzte und Getötete,2014,201408,13.0
-410,Alkoholunfälle,Verletzte und Getötete,2014,201409,18.0
-411,Alkoholunfälle,Verletzte und Getötete,2014,201410,21.0
-412,Alkoholunfälle,Verletzte und Getötete,2014,201411,14.0
-413,Alkoholunfälle,Verletzte und Getötete,2014,201412,3.0
-414,Alkoholunfälle,Verletzte und Getötete,2013,Summe,153.0
-415,Alkoholunfälle,Verletzte und Getötete,2013,201301,2.0
-416,Alkoholunfälle,Verletzte und Getötete,2013,201302,0.0
-417,Alkoholunfälle,Verletzte und Getötete,2013,201303,8.0
-418,Alkoholunfälle,Verletzte und Getötete,2013,201304,5.0
-419,Alkoholunfälle,Verletzte und Getötete,2013,201305,21.0
-420,Alkoholunfälle,Verletzte und Getötete,2013,201306,20.0
-421,Alkoholunfälle,Verletzte und Getötete,2013,201307,24.0
-422,Alkoholunfälle,Verletzte und Getötete,2013,201308,22.0
-423,Alkoholunfälle,Verletzte und Getötete,2013,201309,17.0
-424,Alkoholunfälle,Verletzte und Getötete,2013,201310,12.0
-425,Alkoholunfälle,Verletzte und Getötete,2013,201311,12.0
-426,Alkoholunfälle,Verletzte und Getötete,2013,201312,10.0
-427,Alkoholunfälle,Verletzte und Getötete,2012,Summe,223.0
-428,Alkoholunfälle,Verletzte und Getötete,2012,201201,11.0
-429,Alkoholunfälle,Verletzte und Getötete,2012,201202,5.0
-430,Alkoholunfälle,Verletzte und Getötete,2012,201203,5.0
-431,Alkoholunfälle,Verletzte und Getötete,2012,201204,22.0
-432,Alkoholunfälle,Verletzte und Getötete,2012,201205,33.0
-433,Alkoholunfälle,Verletzte und Getötete,2012,201206,35.0
-434,Alkoholunfälle,Verletzte und Getötete,2012,201207,30.0
-435,Alkoholunfälle,Verletzte und Getötete,2012,201208,31.0
-436,Alkoholunfälle,Verletzte und Getötete,2012,201209,24.0
-437,Alkoholunfälle,Verletzte und Getötete,2012,201210,6.0
-438,Alkoholunfälle,Verletzte und Getötete,2012,201211,10.0
-439,Alkoholunfälle,Verletzte und Getötete,2012,201212,11.0
-440,Alkoholunfälle,Verletzte und Getötete,2011,Summe,198.0
-441,Alkoholunfälle,Verletzte und Getötete,2011,201101,16.0
-442,Alkoholunfälle,Verletzte und Getötete,2011,201102,7.0
-443,Alkoholunfälle,Verletzte und Getötete,2011,201103,9.0
-444,Alkoholunfälle,Verletzte und Getötete,2011,201104,27.0
-445,Alkoholunfälle,Verletzte und Getötete,2011,201105,20.0
-446,Alkoholunfälle,Verletzte und Getötete,2011,201106,21.0
-447,Alkoholunfälle,Verletzte und Getötete,2011,201107,27.0
-448,Alkoholunfälle,Verletzte und Getötete,2011,201108,17.0
-449,Alkoholunfälle,Verletzte und Getötete,2011,201109,22.0
-450,Alkoholunfälle,Verletzte und Getötete,2011,201110,10.0
-451,Alkoholunfälle,Verletzte und Getötete,2011,201111,16.0
-452,Alkoholunfälle,Verletzte und Getötete,2011,201112,6.0
-453,Alkoholunfälle,Verletzte und Getötete,2010,Summe,201.0
-454,Alkoholunfälle,Verletzte und Getötete,2010,201001,7.0
-455,Alkoholunfälle,Verletzte und Getötete,2010,201002,10.0
-456,Alkoholunfälle,Verletzte und Getötete,2010,201003,12.0
-457,Alkoholunfälle,Verletzte und Getötete,2010,201004,25.0
-458,Alkoholunfälle,Verletzte und Getötete,2010,201005,15.0
-459,Alkoholunfälle,Verletzte und Getötete,2010,201006,20.0
-460,Alkoholunfälle,Verletzte und Getötete,2010,201007,29.0
-461,Alkoholunfälle,Verletzte und Getötete,2010,201008,25.0
-462,Alkoholunfälle,Verletzte und Getötete,2010,201009,26.0
-463,Alkoholunfälle,Verletzte und Getötete,2010,201010,13.0
-464,Alkoholunfälle,Verletzte und Getötete,2010,201011,7.0
-465,Alkoholunfälle,Verletzte und Getötete,2010,201012,12.0
-466,Alkoholunfälle,Verletzte und Getötete,2009,Summe,213.0
-467,Alkoholunfälle,Verletzte und Getötete,2009,200901,7.0
-468,Alkoholunfälle,Verletzte und Getötete,2009,200902,12.0
-469,Alkoholunfälle,Verletzte und Getötete,2009,200903,5.0
-470,Alkoholunfälle,Verletzte und Getötete,2009,200904,31.0
-471,Alkoholunfälle,Verletzte und Getötete,2009,200905,34.0
-472,Alkoholunfälle,Verletzte und Getötete,2009,200906,19.0
-473,Alkoholunfälle,Verletzte und Getötete,2009,200907,27.0
-474,Alkoholunfälle,Verletzte und Getötete,2009,200908,26.0
-475,Alkoholunfälle,Verletzte und Getötete,2009,200909,18.0
-476,Alkoholunfälle,Verletzte und Getötete,2009,200910,15.0
-477,Alkoholunfälle,Verletzte und Getötete,2009,200911,5.0
-478,Alkoholunfälle,Verletzte und Getötete,2009,200912,14.0
-479,Alkoholunfälle,Verletzte und Getötete,2008,Summe,240.0
-480,Alkoholunfälle,Verletzte und Getötete,2008,200801,8.0
-481,Alkoholunfälle,Verletzte und Getötete,2008,200802,16.0
-482,Alkoholunfälle,Verletzte und Getötete,2008,200803,9.0
-483,Alkoholunfälle,Verletzte und Getötete,2008,200804,10.0
-484,Alkoholunfälle,Verletzte und Getötete,2008,200805,37.0
-485,Alkoholunfälle,Verletzte und Getötete,2008,200806,32.0
-486,Alkoholunfälle,Verletzte und Getötete,2008,200807,24.0
-487,Alkoholunfälle,Verletzte und Getötete,2008,200808,23.0
-488,Alkoholunfälle,Verletzte und Getötete,2008,200809,28.0
-489,Alkoholunfälle,Verletzte und Getötete,2008,200810,19.0
-490,Alkoholunfälle,Verletzte und Getötete,2008,200811,14.0
-491,Alkoholunfälle,Verletzte und Getötete,2008,200812,20.0
-492,Alkoholunfälle,Verletzte und Getötete,2007,Summe,281.0
-493,Alkoholunfälle,Verletzte und Getötete,2007,200701,13.0
-494,Alkoholunfälle,Verletzte und Getötete,2007,200702,15.0
-495,Alkoholunfälle,Verletzte und Getötete,2007,200703,14.0
-496,Alkoholunfälle,Verletzte und Getötete,2007,200704,27.0
-497,Alkoholunfälle,Verletzte und Getötete,2007,200705,39.0
-498,Alkoholunfälle,Verletzte und Getötete,2007,200706,27.0
-499,Alkoholunfälle,Verletzte und Getötete,2007,200707,38.0
-500,Alkoholunfälle,Verletzte und Getötete,2007,200708,20.0
-501,Alkoholunfälle,Verletzte und Getötete,2007,200709,24.0
-502,Alkoholunfälle,Verletzte und Getötete,2007,200710,18.0
-503,Alkoholunfälle,Verletzte und Getötete,2007,200711,26.0
-504,Alkoholunfälle,Verletzte und Getötete,2007,200712,20.0
-505,Alkoholunfälle,Verletzte und Getötete,2006,Summe,286.0
-506,Alkoholunfälle,Verletzte und Getötete,2006,200601,21.0
-507,Alkoholunfälle,Verletzte und Getötete,2006,200602,21.0
-508,Alkoholunfälle,Verletzte und Getötete,2006,200603,14.0
-509,Alkoholunfälle,Verletzte und Getötete,2006,200604,16.0
-510,Alkoholunfälle,Verletzte und Getötete,2006,200605,28.0
-511,Alkoholunfälle,Verletzte und Getötete,2006,200606,22.0
-512,Alkoholunfälle,Verletzte und Getötete,2006,200607,37.0
-513,Alkoholunfälle,Verletzte und Getötete,2006,200608,25.0
-514,Alkoholunfälle,Verletzte und Getötete,2006,200609,35.0
-515,Alkoholunfälle,Verletzte und Getötete,2006,200610,24.0
-516,Alkoholunfälle,Verletzte und Getötete,2006,200611,22.0
-517,Alkoholunfälle,Verletzte und Getötete,2006,200612,21.0
-518,Alkoholunfälle,Verletzte und Getötete,2005,Summe,281.0
-519,Alkoholunfälle,Verletzte und Getötete,2005,200501,13.0
-520,Alkoholunfälle,Verletzte und Getötete,2005,200502,14.0
-521,Alkoholunfälle,Verletzte und Getötete,2005,200503,13.0
-522,Alkoholunfälle,Verletzte und Getötete,2005,200504,19.0
-523,Alkoholunfälle,Verletzte und Getötete,2005,200505,21.0
-524,Alkoholunfälle,Verletzte und Getötete,2005,200506,31.0
-525,Alkoholunfälle,Verletzte und Getötete,2005,200507,26.0
-526,Alkoholunfälle,Verletzte und Getötete,2005,200508,33.0
-527,Alkoholunfälle,Verletzte und Getötete,2005,200509,50.0
-528,Alkoholunfälle,Verletzte und Getötete,2005,200510,35.0
-529,Alkoholunfälle,Verletzte und Getötete,2005,200511,14.0
-530,Alkoholunfälle,Verletzte und Getötete,2005,200512,12.0
-531,Alkoholunfälle,Verletzte und Getötete,2004,Summe,304.0
-532,Alkoholunfälle,Verletzte und Getötete,2004,200401,10.0
-533,Alkoholunfälle,Verletzte und Getötete,2004,200402,21.0
-534,Alkoholunfälle,Verletzte und Getötete,2004,200403,18.0
-535,Alkoholunfälle,Verletzte und Getötete,2004,200404,10.0
-536,Alkoholunfälle,Verletzte und Getötete,2004,200405,30.0
-537,Alkoholunfälle,Verletzte und Getötete,2004,200406,25.0
-538,Alkoholunfälle,Verletzte und Getötete,2004,200407,44.0
-539,Alkoholunfälle,Verletzte und Getötete,2004,200408,47.0
-540,Alkoholunfälle,Verletzte und Getötete,2004,200409,41.0
-541,Alkoholunfälle,Verletzte und Getötete,2004,200410,26.0
-542,Alkoholunfälle,Verletzte und Getötete,2004,200411,20.0
-543,Alkoholunfälle,Verletzte und Getötete,2004,200412,12.0
-544,Alkoholunfälle,Verletzte und Getötete,2003,Summe,319.0
-545,Alkoholunfälle,Verletzte und Getötete,2003,200301,18.0
-546,Alkoholunfälle,Verletzte und Getötete,2003,200302,16.0
-547,Alkoholunfälle,Verletzte und Getötete,2003,200303,17.0
-548,Alkoholunfälle,Verletzte und Getötete,2003,200304,25.0
-549,Alkoholunfälle,Verletzte und Getötete,2003,200305,26.0
-550,Alkoholunfälle,Verletzte und Getötete,2003,200306,41.0
-551,Alkoholunfälle,Verletzte und Getötete,2003,200307,35.0
-552,Alkoholunfälle,Verletzte und Getötete,2003,200308,40.0
-553,Alkoholunfälle,Verletzte und Getötete,2003,200309,26.0
-554,Alkoholunfälle,Verletzte und Getötete,2003,200310,17.0
-555,Alkoholunfälle,Verletzte und Getötete,2003,200311,31.0
-556,Alkoholunfälle,Verletzte und Getötete,2003,200312,27.0
-557,Alkoholunfälle,Verletzte und Getötete,2002,Summe,379.0
-558,Alkoholunfälle,Verletzte und Getötete,2002,200201,24.0
-559,Alkoholunfälle,Verletzte und Getötete,2002,200202,22.0
-560,Alkoholunfälle,Verletzte und Getötete,2002,200203,21.0
-561,Alkoholunfälle,Verletzte und Getötete,2002,200204,28.0
-562,Alkoholunfälle,Verletzte und Getötete,2002,200205,32.0
-563,Alkoholunfälle,Verletzte und Getötete,2002,200206,42.0
-564,Alkoholunfälle,Verletzte und Getötete,2002,200207,40.0
-565,Alkoholunfälle,Verletzte und Getötete,2002,200208,29.0
-566,Alkoholunfälle,Verletzte und Getötete,2002,200209,51.0
-567,Alkoholunfälle,Verletzte und Getötete,2002,200210,53.0
-568,Alkoholunfälle,Verletzte und Getötete,2002,200211,10.0
-569,Alkoholunfälle,Verletzte und Getötete,2002,200212,27.0
-570,Alkoholunfälle,Verletzte und Getötete,2001,Summe,391.0
-571,Alkoholunfälle,Verletzte und Getötete,2001,200101,36.0
-572,Alkoholunfälle,Verletzte und Getötete,2001,200102,20.0
-573,Alkoholunfälle,Verletzte und Getötete,2001,200103,36.0
-574,Alkoholunfälle,Verletzte und Getötete,2001,200104,32.0
-575,Alkoholunfälle,Verletzte und Getötete,2001,200105,32.0
-576,Alkoholunfälle,Verletzte und Getötete,2001,200106,46.0
-577,Alkoholunfälle,Verletzte und Getötete,2001,200107,35.0
-578,Alkoholunfälle,Verletzte und Getötete,2001,200108,21.0
-579,Alkoholunfälle,Verletzte und Getötete,2001,200109,48.0
-580,Alkoholunfälle,Verletzte und Getötete,2001,200110,37.0
-581,Alkoholunfälle,Verletzte und Getötete,2001,200111,25.0
-582,Alkoholunfälle,Verletzte und Getötete,2001,200112,23.0
-583,Alkoholunfälle,Verletzte und Getötete,2000,Summe,376.0
-584,Alkoholunfälle,Verletzte und Getötete,2000,200001,37.0
-585,Alkoholunfälle,Verletzte und Getötete,2000,200002,19.0
-586,Alkoholunfälle,Verletzte und Getötete,2000,200003,18.0
-587,Alkoholunfälle,Verletzte und Getötete,2000,200004,26.0
-588,Alkoholunfälle,Verletzte und Getötete,2000,200005,44.0
-589,Alkoholunfälle,Verletzte und Getötete,2000,200006,32.0
-590,Alkoholunfälle,Verletzte und Getötete,2000,200007,37.0
-591,Alkoholunfälle,Verletzte und Getötete,2000,200008,32.0
-592,Alkoholunfälle,Verletzte und Getötete,2000,200009,45.0
-593,Alkoholunfälle,Verletzte und Getötete,2000,200010,31.0
-594,Alkoholunfälle,Verletzte und Getötete,2000,200011,24.0
-595,Alkoholunfälle,Verletzte und Getötete,2000,200012,31.0
+26,Alkoholunfälle,insgesamt,2020,2020-01-01,28.0
+27,Alkoholunfälle,insgesamt,2020,2020-02-01,40.0
+28,Alkoholunfälle,insgesamt,2020,2020-03-01,27.0
+29,Alkoholunfälle,insgesamt,2020,2020-04-01,26.0
+30,Alkoholunfälle,insgesamt,2020,2020-05-01,40.0
+31,Alkoholunfälle,insgesamt,2020,2020-06-01,49.0
+32,Alkoholunfälle,insgesamt,2020,2020-07-01,58.0
+33,Alkoholunfälle,insgesamt,2020,2020-08-01,46.0
+34,Alkoholunfälle,insgesamt,2020,2020-09-01,46.0
+35,Alkoholunfälle,insgesamt,2020,2020-10-01,34.0
+36,Alkoholunfälle,insgesamt,2020,2020-11-01,23.0
+37,Alkoholunfälle,insgesamt,2020,2020-12-01,13.0
+39,Alkoholunfälle,insgesamt,2019,2019-01-01,22.0
+40,Alkoholunfälle,insgesamt,2019,2019-02-01,28.0
+41,Alkoholunfälle,insgesamt,2019,2019-03-01,34.0
+42,Alkoholunfälle,insgesamt,2019,2019-04-01,36.0
+43,Alkoholunfälle,insgesamt,2019,2019-05-01,39.0
+44,Alkoholunfälle,insgesamt,2019,2019-06-01,40.0
+45,Alkoholunfälle,insgesamt,2019,2019-07-01,48.0
+46,Alkoholunfälle,insgesamt,2019,2019-08-01,31.0
+47,Alkoholunfälle,insgesamt,2019,2019-09-01,47.0
+48,Alkoholunfälle,insgesamt,2019,2019-10-01,45.0
+49,Alkoholunfälle,insgesamt,2019,2019-11-01,29.0
+50,Alkoholunfälle,insgesamt,2019,2019-12-01,35.0
+52,Alkoholunfälle,insgesamt,2018,2018-01-01,22.0
+53,Alkoholunfälle,insgesamt,2018,2018-02-01,24.0
+54,Alkoholunfälle,insgesamt,2018,2018-03-01,32.0
+55,Alkoholunfälle,insgesamt,2018,2018-04-01,25.0
+56,Alkoholunfälle,insgesamt,2018,2018-05-01,34.0
+57,Alkoholunfälle,insgesamt,2018,2018-06-01,39.0
+58,Alkoholunfälle,insgesamt,2018,2018-07-01,51.0
+59,Alkoholunfälle,insgesamt,2018,2018-08-01,40.0
+60,Alkoholunfälle,insgesamt,2018,2018-09-01,36.0
+61,Alkoholunfälle,insgesamt,2018,2018-10-01,43.0
+62,Alkoholunfälle,insgesamt,2018,2018-11-01,31.0
+63,Alkoholunfälle,insgesamt,2018,2018-12-01,21.0
+65,Alkoholunfälle,insgesamt,2017,2017-01-01,19.0
+66,Alkoholunfälle,insgesamt,2017,2017-02-01,22.0
+67,Alkoholunfälle,insgesamt,2017,2017-03-01,36.0
+68,Alkoholunfälle,insgesamt,2017,2017-04-01,26.0
+69,Alkoholunfälle,insgesamt,2017,2017-05-01,29.0
+70,Alkoholunfälle,insgesamt,2017,2017-06-01,41.0
+71,Alkoholunfälle,insgesamt,2017,2017-07-01,52.0
+72,Alkoholunfälle,insgesamt,2017,2017-08-01,30.0
+73,Alkoholunfälle,insgesamt,2017,2017-09-01,47.0
+74,Alkoholunfälle,insgesamt,2017,2017-10-01,32.0
+75,Alkoholunfälle,insgesamt,2017,2017-11-01,33.0
+76,Alkoholunfälle,insgesamt,2017,2017-12-01,42.0
+78,Alkoholunfälle,insgesamt,2016,2016-01-01,21.0
+79,Alkoholunfälle,insgesamt,2016,2016-02-01,10.0
+80,Alkoholunfälle,insgesamt,2016,2016-03-01,20.0
+81,Alkoholunfälle,insgesamt,2016,2016-04-01,27.0
+82,Alkoholunfälle,insgesamt,2016,2016-05-01,25.0
+83,Alkoholunfälle,insgesamt,2016,2016-06-01,30.0
+84,Alkoholunfälle,insgesamt,2016,2016-07-01,35.0
+85,Alkoholunfälle,insgesamt,2016,2016-08-01,34.0
+86,Alkoholunfälle,insgesamt,2016,2016-09-01,29.0
+87,Alkoholunfälle,insgesamt,2016,2016-10-01,30.0
+88,Alkoholunfälle,insgesamt,2016,2016-11-01,20.0
+89,Alkoholunfälle,insgesamt,2016,2016-12-01,20.0
+91,Alkoholunfälle,insgesamt,2015,2015-01-01,22.0
+92,Alkoholunfälle,insgesamt,2015,2015-02-01,23.0
+93,Alkoholunfälle,insgesamt,2015,2015-03-01,23.0
+94,Alkoholunfälle,insgesamt,2015,2015-04-01,29.0
+95,Alkoholunfälle,insgesamt,2015,2015-05-01,50.0
+96,Alkoholunfälle,insgesamt,2015,2015-06-01,39.0
+97,Alkoholunfälle,insgesamt,2015,2015-07-01,49.0
+98,Alkoholunfälle,insgesamt,2015,2015-08-01,49.0
+99,Alkoholunfälle,insgesamt,2015,2015-09-01,45.0
+100,Alkoholunfälle,insgesamt,2015,2015-10-01,25.0
+101,Alkoholunfälle,insgesamt,2015,2015-11-01,30.0
+102,Alkoholunfälle,insgesamt,2015,2015-12-01,27.0
+104,Alkoholunfälle,insgesamt,2014,2014-01-01,21.0
+105,Alkoholunfälle,insgesamt,2014,2014-02-01,17.0
+106,Alkoholunfälle,insgesamt,2014,2014-03-01,37.0
+107,Alkoholunfälle,insgesamt,2014,2014-04-01,35.0
+108,Alkoholunfälle,insgesamt,2014,2014-05-01,28.0
+109,Alkoholunfälle,insgesamt,2014,2014-06-01,31.0
+110,Alkoholunfälle,insgesamt,2014,2014-07-01,35.0
+111,Alkoholunfälle,insgesamt,2014,2014-08-01,32.0
+112,Alkoholunfälle,insgesamt,2014,2014-09-01,43.0
+113,Alkoholunfälle,insgesamt,2014,2014-10-01,36.0
+114,Alkoholunfälle,insgesamt,2014,2014-11-01,42.0
+115,Alkoholunfälle,insgesamt,2014,2014-12-01,25.0
+117,Alkoholunfälle,insgesamt,2013,2013-01-01,17.0
+118,Alkoholunfälle,insgesamt,2013,2013-02-01,15.0
+119,Alkoholunfälle,insgesamt,2013,2013-03-01,21.0
+120,Alkoholunfälle,insgesamt,2013,2013-04-01,28.0
+121,Alkoholunfälle,insgesamt,2013,2013-05-01,33.0
+122,Alkoholunfälle,insgesamt,2013,2013-06-01,37.0
+123,Alkoholunfälle,insgesamt,2013,2013-07-01,42.0
+124,Alkoholunfälle,insgesamt,2013,2013-08-01,39.0
+125,Alkoholunfälle,insgesamt,2013,2013-09-01,47.0
+126,Alkoholunfälle,insgesamt,2013,2013-10-01,31.0
+127,Alkoholunfälle,insgesamt,2013,2013-11-01,35.0
+128,Alkoholunfälle,insgesamt,2013,2013-12-01,32.0
+130,Alkoholunfälle,insgesamt,2012,2012-01-01,21.0
+131,Alkoholunfälle,insgesamt,2012,2012-02-01,18.0
+132,Alkoholunfälle,insgesamt,2012,2012-03-01,21.0
+133,Alkoholunfälle,insgesamt,2012,2012-04-01,34.0
+134,Alkoholunfälle,insgesamt,2012,2012-05-01,54.0
+135,Alkoholunfälle,insgesamt,2012,2012-06-01,43.0
+136,Alkoholunfälle,insgesamt,2012,2012-07-01,56.0
+137,Alkoholunfälle,insgesamt,2012,2012-08-01,55.0
+138,Alkoholunfälle,insgesamt,2012,2012-09-01,49.0
+139,Alkoholunfälle,insgesamt,2012,2012-10-01,32.0
+140,Alkoholunfälle,insgesamt,2012,2012-11-01,30.0
+141,Alkoholunfälle,insgesamt,2012,2012-12-01,27.0
+143,Alkoholunfälle,insgesamt,2011,2011-01-01,25.0
+144,Alkoholunfälle,insgesamt,2011,2011-02-01,25.0
+145,Alkoholunfälle,insgesamt,2011,2011-03-01,22.0
+146,Alkoholunfälle,insgesamt,2011,2011-04-01,43.0
+147,Alkoholunfälle,insgesamt,2011,2011-05-01,43.0
+148,Alkoholunfälle,insgesamt,2011,2011-06-01,27.0
+149,Alkoholunfälle,insgesamt,2011,2011-07-01,39.0
+150,Alkoholunfälle,insgesamt,2011,2011-08-01,34.0
+151,Alkoholunfälle,insgesamt,2011,2011-09-01,36.0
+152,Alkoholunfälle,insgesamt,2011,2011-10-01,26.0
+153,Alkoholunfälle,insgesamt,2011,2011-11-01,40.0
+154,Alkoholunfälle,insgesamt,2011,2011-12-01,37.0
+156,Alkoholunfälle,insgesamt,2010,2010-01-01,19.0
+157,Alkoholunfälle,insgesamt,2010,2010-02-01,23.0
+158,Alkoholunfälle,insgesamt,2010,2010-03-01,31.0
+159,Alkoholunfälle,insgesamt,2010,2010-04-01,33.0
+160,Alkoholunfälle,insgesamt,2010,2010-05-01,34.0
+161,Alkoholunfälle,insgesamt,2010,2010-06-01,39.0
+162,Alkoholunfälle,insgesamt,2010,2010-07-01,48.0
+163,Alkoholunfälle,insgesamt,2010,2010-08-01,40.0
+164,Alkoholunfälle,insgesamt,2010,2010-09-01,54.0
+165,Alkoholunfälle,insgesamt,2010,2010-10-01,27.0
+166,Alkoholunfälle,insgesamt,2010,2010-11-01,28.0
+167,Alkoholunfälle,insgesamt,2010,2010-12-01,26.0
+169,Alkoholunfälle,insgesamt,2009,2009-01-01,23.0
+170,Alkoholunfälle,insgesamt,2009,2009-02-01,32.0
+171,Alkoholunfälle,insgesamt,2009,2009-03-01,14.0
+172,Alkoholunfälle,insgesamt,2009,2009-04-01,45.0
+173,Alkoholunfälle,insgesamt,2009,2009-05-01,57.0
+174,Alkoholunfälle,insgesamt,2009,2009-06-01,31.0
+175,Alkoholunfälle,insgesamt,2009,2009-07-01,44.0
+176,Alkoholunfälle,insgesamt,2009,2009-08-01,35.0
+177,Alkoholunfälle,insgesamt,2009,2009-09-01,49.0
+178,Alkoholunfälle,insgesamt,2009,2009-10-01,35.0
+179,Alkoholunfälle,insgesamt,2009,2009-11-01,31.0
+180,Alkoholunfälle,insgesamt,2009,2009-12-01,34.0
+182,Alkoholunfälle,insgesamt,2008,2008-01-01,32.0
+183,Alkoholunfälle,insgesamt,2008,2008-02-01,30.0
+184,Alkoholunfälle,insgesamt,2008,2008-03-01,30.0
+185,Alkoholunfälle,insgesamt,2008,2008-04-01,25.0
+186,Alkoholunfälle,insgesamt,2008,2008-05-01,57.0
+187,Alkoholunfälle,insgesamt,2008,2008-06-01,56.0
+188,Alkoholunfälle,insgesamt,2008,2008-07-01,52.0
+189,Alkoholunfälle,insgesamt,2008,2008-08-01,44.0
+190,Alkoholunfälle,insgesamt,2008,2008-09-01,49.0
+191,Alkoholunfälle,insgesamt,2008,2008-10-01,45.0
+192,Alkoholunfälle,insgesamt,2008,2008-11-01,27.0
+193,Alkoholunfälle,insgesamt,2008,2008-12-01,35.0
+195,Alkoholunfälle,insgesamt,2007,2007-01-01,36.0
+196,Alkoholunfälle,insgesamt,2007,2007-02-01,32.0
+197,Alkoholunfälle,insgesamt,2007,2007-03-01,38.0
+198,Alkoholunfälle,insgesamt,2007,2007-04-01,49.0
+199,Alkoholunfälle,insgesamt,2007,2007-05-01,63.0
+200,Alkoholunfälle,insgesamt,2007,2007-06-01,51.0
+201,Alkoholunfälle,insgesamt,2007,2007-07-01,65.0
+202,Alkoholunfälle,insgesamt,2007,2007-08-01,44.0
+203,Alkoholunfälle,insgesamt,2007,2007-09-01,54.0
+204,Alkoholunfälle,insgesamt,2007,2007-10-01,55.0
+205,Alkoholunfälle,insgesamt,2007,2007-11-01,36.0
+206,Alkoholunfälle,insgesamt,2007,2007-12-01,37.0
+208,Alkoholunfälle,insgesamt,2006,2006-01-01,44.0
+209,Alkoholunfälle,insgesamt,2006,2006-02-01,50.0
+210,Alkoholunfälle,insgesamt,2006,2006-03-01,40.0
+211,Alkoholunfälle,insgesamt,2006,2006-04-01,40.0
+212,Alkoholunfälle,insgesamt,2006,2006-05-01,53.0
+213,Alkoholunfälle,insgesamt,2006,2006-06-01,51.0
+214,Alkoholunfälle,insgesamt,2006,2006-07-01,64.0
+215,Alkoholunfälle,insgesamt,2006,2006-08-01,48.0
+216,Alkoholunfälle,insgesamt,2006,2006-09-01,64.0
+217,Alkoholunfälle,insgesamt,2006,2006-10-01,45.0
+218,Alkoholunfälle,insgesamt,2006,2006-11-01,48.0
+219,Alkoholunfälle,insgesamt,2006,2006-12-01,52.0
+221,Alkoholunfälle,insgesamt,2005,2005-01-01,48.0
+222,Alkoholunfälle,insgesamt,2005,2005-02-01,40.0
+223,Alkoholunfälle,insgesamt,2005,2005-03-01,40.0
+224,Alkoholunfälle,insgesamt,2005,2005-04-01,40.0
+225,Alkoholunfälle,insgesamt,2005,2005-05-01,48.0
+226,Alkoholunfälle,insgesamt,2005,2005-06-01,57.0
+227,Alkoholunfälle,insgesamt,2005,2005-07-01,63.0
+228,Alkoholunfälle,insgesamt,2005,2005-08-01,48.0
+229,Alkoholunfälle,insgesamt,2005,2005-09-01,76.0
+230,Alkoholunfälle,insgesamt,2005,2005-10-01,57.0
+231,Alkoholunfälle,insgesamt,2005,2005-11-01,42.0
+232,Alkoholunfälle,insgesamt,2005,2005-12-01,41.0
+234,Alkoholunfälle,insgesamt,2004,2004-01-01,42.0
+235,Alkoholunfälle,insgesamt,2004,2004-02-01,48.0
+236,Alkoholunfälle,insgesamt,2004,2004-03-01,44.0
+237,Alkoholunfälle,insgesamt,2004,2004-04-01,37.0
+238,Alkoholunfälle,insgesamt,2004,2004-05-01,55.0
+239,Alkoholunfälle,insgesamt,2004,2004-06-01,58.0
+240,Alkoholunfälle,insgesamt,2004,2004-07-01,67.0
+241,Alkoholunfälle,insgesamt,2004,2004-08-01,58.0
+242,Alkoholunfälle,insgesamt,2004,2004-09-01,79.0
+243,Alkoholunfälle,insgesamt,2004,2004-10-01,68.0
+244,Alkoholunfälle,insgesamt,2004,2004-11-01,51.0
+245,Alkoholunfälle,insgesamt,2004,2004-12-01,52.0
+247,Alkoholunfälle,insgesamt,2003,2003-01-01,55.0
+248,Alkoholunfälle,insgesamt,2003,2003-02-01,44.0
+249,Alkoholunfälle,insgesamt,2003,2003-03-01,53.0
+250,Alkoholunfälle,insgesamt,2003,2003-04-01,50.0
+251,Alkoholunfälle,insgesamt,2003,2003-05-01,65.0
+252,Alkoholunfälle,insgesamt,2003,2003-06-01,82.0
+253,Alkoholunfälle,insgesamt,2003,2003-07-01,76.0
+254,Alkoholunfälle,insgesamt,2003,2003-08-01,66.0
+255,Alkoholunfälle,insgesamt,2003,2003-09-01,63.0
+256,Alkoholunfälle,insgesamt,2003,2003-10-01,74.0
+257,Alkoholunfälle,insgesamt,2003,2003-11-01,44.0
+258,Alkoholunfälle,insgesamt,2003,2003-12-01,58.0
+260,Alkoholunfälle,insgesamt,2002,2002-01-01,44.0
+261,Alkoholunfälle,insgesamt,2002,2002-02-01,49.0
+262,Alkoholunfälle,insgesamt,2002,2002-03-01,61.0
+263,Alkoholunfälle,insgesamt,2002,2002-04-01,65.0
+264,Alkoholunfälle,insgesamt,2002,2002-05-01,58.0
+265,Alkoholunfälle,insgesamt,2002,2002-06-01,74.0
+266,Alkoholunfälle,insgesamt,2002,2002-07-01,84.0
+267,Alkoholunfälle,insgesamt,2002,2002-08-01,71.0
+268,Alkoholunfälle,insgesamt,2002,2002-09-01,107.0
+269,Alkoholunfälle,insgesamt,2002,2002-10-01,83.0
+270,Alkoholunfälle,insgesamt,2002,2002-11-01,44.0
+271,Alkoholunfälle,insgesamt,2002,2002-12-01,63.0
+273,Alkoholunfälle,insgesamt,2001,2001-01-01,66.0
+274,Alkoholunfälle,insgesamt,2001,2001-02-01,49.0
+275,Alkoholunfälle,insgesamt,2001,2001-03-01,63.0
+276,Alkoholunfälle,insgesamt,2001,2001-04-01,68.0
+277,Alkoholunfälle,insgesamt,2001,2001-05-01,85.0
+278,Alkoholunfälle,insgesamt,2001,2001-06-01,68.0
+279,Alkoholunfälle,insgesamt,2001,2001-07-01,71.0
+280,Alkoholunfälle,insgesamt,2001,2001-08-01,60.0
+281,Alkoholunfälle,insgesamt,2001,2001-09-01,107.0
+282,Alkoholunfälle,insgesamt,2001,2001-10-01,77.0
+283,Alkoholunfälle,insgesamt,2001,2001-11-01,68.0
+284,Alkoholunfälle,insgesamt,2001,2001-12-01,66.0
+286,Alkoholunfälle,insgesamt,2000,2000-01-01,78.0
+287,Alkoholunfälle,insgesamt,2000,2000-02-01,53.0
+288,Alkoholunfälle,insgesamt,2000,2000-03-01,73.0
+289,Alkoholunfälle,insgesamt,2000,2000-04-01,78.0
+290,Alkoholunfälle,insgesamt,2000,2000-05-01,96.0
+291,Alkoholunfälle,insgesamt,2000,2000-06-01,57.0
+292,Alkoholunfälle,insgesamt,2000,2000-07-01,99.0
+293,Alkoholunfälle,insgesamt,2000,2000-08-01,77.0
+294,Alkoholunfälle,insgesamt,2000,2000-09-01,84.0
+295,Alkoholunfälle,insgesamt,2000,2000-10-01,83.0
+296,Alkoholunfälle,insgesamt,2000,2000-11-01,71.0
+297,Alkoholunfälle,insgesamt,2000,2000-12-01,85.0
+324,Alkoholunfälle,Verletzte und Getötete,2020,2020-01-01,11.0
+325,Alkoholunfälle,Verletzte und Getötete,2020,2020-02-01,19.0
+326,Alkoholunfälle,Verletzte und Getötete,2020,2020-03-01,13.0
+327,Alkoholunfälle,Verletzte und Getötete,2020,2020-04-01,15.0
+328,Alkoholunfälle,Verletzte und Getötete,2020,2020-05-01,26.0
+329,Alkoholunfälle,Verletzte und Getötete,2020,2020-06-01,30.0
+330,Alkoholunfälle,Verletzte und Getötete,2020,2020-07-01,43.0
+331,Alkoholunfälle,Verletzte und Getötete,2020,2020-08-01,29.0
+332,Alkoholunfälle,Verletzte und Getötete,2020,2020-09-01,24.0
+333,Alkoholunfälle,Verletzte und Getötete,2020,2020-10-01,20.0
+334,Alkoholunfälle,Verletzte und Getötete,2020,2020-11-01,11.0
+335,Alkoholunfälle,Verletzte und Getötete,2020,2020-12-01,9.0
+337,Alkoholunfälle,Verletzte und Getötete,2019,2019-01-01,7.0
+338,Alkoholunfälle,Verletzte und Getötete,2019,2019-02-01,7.0
+339,Alkoholunfälle,Verletzte und Getötete,2019,2019-03-01,22.0
+340,Alkoholunfälle,Verletzte und Getötete,2019,2019-04-01,18.0
+341,Alkoholunfälle,Verletzte und Getötete,2019,2019-05-01,21.0
+342,Alkoholunfälle,Verletzte und Getötete,2019,2019-06-01,24.0
+343,Alkoholunfälle,Verletzte und Getötete,2019,2019-07-01,34.0
+344,Alkoholunfälle,Verletzte und Getötete,2019,2019-08-01,23.0
+345,Alkoholunfälle,Verletzte und Getötete,2019,2019-09-01,20.0
+346,Alkoholunfälle,Verletzte und Getötete,2019,2019-10-01,20.0
+347,Alkoholunfälle,Verletzte und Getötete,2019,2019-11-01,19.0
+348,Alkoholunfälle,Verletzte und Getötete,2019,2019-12-01,12.0
+350,Alkoholunfälle,Verletzte und Getötete,2018,2018-01-01,8.0
+351,Alkoholunfälle,Verletzte und Getötete,2018,2018-02-01,13.0
+352,Alkoholunfälle,Verletzte und Getötete,2018,2018-03-01,12.0
+353,Alkoholunfälle,Verletzte und Getötete,2018,2018-04-01,8.0
+354,Alkoholunfälle,Verletzte und Getötete,2018,2018-05-01,23.0
+355,Alkoholunfälle,Verletzte und Getötete,2018,2018-06-01,14.0
+356,Alkoholunfälle,Verletzte und Getötete,2018,2018-07-01,29.0
+357,Alkoholunfälle,Verletzte und Getötete,2018,2018-08-01,18.0
+358,Alkoholunfälle,Verletzte und Getötete,2018,2018-09-01,22.0
+359,Alkoholunfälle,Verletzte und Getötete,2018,2018-10-01,16.0
+360,Alkoholunfälle,Verletzte und Getötete,2018,2018-11-01,13.0
+361,Alkoholunfälle,Verletzte und Getötete,2018,2018-12-01,6.0
+363,Alkoholunfälle,Verletzte und Getötete,2017,2017-01-01,4.0
+364,Alkoholunfälle,Verletzte und Getötete,2017,2017-02-01,4.0
+365,Alkoholunfälle,Verletzte und Getötete,2017,2017-03-01,15.0
+366,Alkoholunfälle,Verletzte und Getötete,2017,2017-04-01,10.0
+367,Alkoholunfälle,Verletzte und Getötete,2017,2017-05-01,16.0
+368,Alkoholunfälle,Verletzte und Getötete,2017,2017-06-01,27.0
+369,Alkoholunfälle,Verletzte und Getötete,2017,2017-07-01,18.0
+370,Alkoholunfälle,Verletzte und Getötete,2017,2017-08-01,14.0
+371,Alkoholunfälle,Verletzte und Getötete,2017,2017-09-01,22.0
+372,Alkoholunfälle,Verletzte und Getötete,2017,2017-10-01,16.0
+373,Alkoholunfälle,Verletzte und Getötete,2017,2017-11-01,13.0
+374,Alkoholunfälle,Verletzte und Getötete,2017,2017-12-01,17.0
+376,Alkoholunfälle,Verletzte und Getötete,2016,2016-01-01,6.0
+377,Alkoholunfälle,Verletzte und Getötete,2016,2016-02-01,3.0
+378,Alkoholunfälle,Verletzte und Getötete,2016,2016-03-01,6.0
+379,Alkoholunfälle,Verletzte und Getötete,2016,2016-04-01,8.0
+380,Alkoholunfälle,Verletzte und Getötete,2016,2016-05-01,17.0
+381,Alkoholunfälle,Verletzte und Getötete,2016,2016-06-01,19.0
+382,Alkoholunfälle,Verletzte und Getötete,2016,2016-07-01,23.0
+383,Alkoholunfälle,Verletzte und Getötete,2016,2016-08-01,12.0
+384,Alkoholunfälle,Verletzte und Getötete,2016,2016-09-01,22.0
+385,Alkoholunfälle,Verletzte und Getötete,2016,2016-10-01,11.0
+386,Alkoholunfälle,Verletzte und Getötete,2016,2016-11-01,7.0
+387,Alkoholunfälle,Verletzte und Getötete,2016,2016-12-01,10.0
+389,Alkoholunfälle,Verletzte und Getötete,2015,2015-01-01,21.0
+390,Alkoholunfälle,Verletzte und Getötete,2015,2015-02-01,3.0
+391,Alkoholunfälle,Verletzte und Getötete,2015,2015-03-01,9.0
+392,Alkoholunfälle,Verletzte und Getötete,2015,2015-04-01,23.0
+393,Alkoholunfälle,Verletzte und Getötete,2015,2015-05-01,30.0
+394,Alkoholunfälle,Verletzte und Getötete,2015,2015-06-01,19.0
+395,Alkoholunfälle,Verletzte und Getötete,2015,2015-07-01,37.0
+396,Alkoholunfälle,Verletzte und Getötete,2015,2015-08-01,29.0
+397,Alkoholunfälle,Verletzte und Getötete,2015,2015-09-01,25.0
+398,Alkoholunfälle,Verletzte und Getötete,2015,2015-10-01,12.0
+399,Alkoholunfälle,Verletzte und Getötete,2015,2015-11-01,11.0
+400,Alkoholunfälle,Verletzte und Getötete,2015,2015-12-01,6.0
+402,Alkoholunfälle,Verletzte und Getötete,2014,2014-01-01,4.0
+403,Alkoholunfälle,Verletzte und Getötete,2014,2014-02-01,7.0
+404,Alkoholunfälle,Verletzte und Getötete,2014,2014-03-01,16.0
+405,Alkoholunfälle,Verletzte und Getötete,2014,2014-04-01,15.0
+406,Alkoholunfälle,Verletzte und Getötete,2014,2014-05-01,19.0
+407,Alkoholunfälle,Verletzte und Getötete,2014,2014-06-01,16.0
+408,Alkoholunfälle,Verletzte und Getötete,2014,2014-07-01,21.0
+409,Alkoholunfälle,Verletzte und Getötete,2014,2014-08-01,13.0
+410,Alkoholunfälle,Verletzte und Getötete,2014,2014-09-01,18.0
+411,Alkoholunfälle,Verletzte und Getötete,2014,2014-10-01,21.0
+412,Alkoholunfälle,Verletzte und Getötete,2014,2014-11-01,14.0
+413,Alkoholunfälle,Verletzte und Getötete,2014,2014-12-01,3.0
+415,Alkoholunfälle,Verletzte und Getötete,2013,2013-01-01,2.0
+416,Alkoholunfälle,Verletzte und Getötete,2013,2013-02-01,0.0
+417,Alkoholunfälle,Verletzte und Getötete,2013,2013-03-01,8.0
+418,Alkoholunfälle,Verletzte und Getötete,2013,2013-04-01,5.0
+419,Alkoholunfälle,Verletzte und Getötete,2013,2013-05-01,21.0
+420,Alkoholunfälle,Verletzte und Getötete,2013,2013-06-01,20.0
+421,Alkoholunfälle,Verletzte und Getötete,2013,2013-07-01,24.0
+422,Alkoholunfälle,Verletzte und Getötete,2013,2013-08-01,22.0
+423,Alkoholunfälle,Verletzte und Getötete,2013,2013-09-01,17.0
+424,Alkoholunfälle,Verletzte und Getötete,2013,2013-10-01,12.0
+425,Alkoholunfälle,Verletzte und Getötete,2013,2013-11-01,12.0
+426,Alkoholunfälle,Verletzte und Getötete,2013,2013-12-01,10.0
+428,Alkoholunfälle,Verletzte und Getötete,2012,2012-01-01,11.0
+429,Alkoholunfälle,Verletzte und Getötete,2012,2012-02-01,5.0
+430,Alkoholunfälle,Verletzte und Getötete,2012,2012-03-01,5.0
+431,Alkoholunfälle,Verletzte und Getötete,2012,2012-04-01,22.0
+432,Alkoholunfälle,Verletzte und Getötete,2012,2012-05-01,33.0
+433,Alkoholunfälle,Verletzte und Getötete,2012,2012-06-01,35.0
+434,Alkoholunfälle,Verletzte und Getötete,2012,2012-07-01,30.0
+435,Alkoholunfälle,Verletzte und Getötete,2012,2012-08-01,31.0
+436,Alkoholunfälle,Verletzte und Getötete,2012,2012-09-01,24.0
+437,Alkoholunfälle,Verletzte und Getötete,2012,2012-10-01,6.0
+438,Alkoholunfälle,Verletzte und Getötete,2012,2012-11-01,10.0
+439,Alkoholunfälle,Verletzte und Getötete,2012,2012-12-01,11.0
+441,Alkoholunfälle,Verletzte und Getötete,2011,2011-01-01,16.0
+442,Alkoholunfälle,Verletzte und Getötete,2011,2011-02-01,7.0
+443,Alkoholunfälle,Verletzte und Getötete,2011,2011-03-01,9.0
+444,Alkoholunfälle,Verletzte und Getötete,2011,2011-04-01,27.0
+445,Alkoholunfälle,Verletzte und Getötete,2011,2011-05-01,20.0
+446,Alkoholunfälle,Verletzte und Getötete,2011,2011-06-01,21.0
+447,Alkoholunfälle,Verletzte und Getötete,2011,2011-07-01,27.0
+448,Alkoholunfälle,Verletzte und Getötete,2011,2011-08-01,17.0
+449,Alkoholunfälle,Verletzte und Getötete,2011,2011-09-01,22.0
+450,Alkoholunfälle,Verletzte und Getötete,2011,2011-10-01,10.0
+451,Alkoholunfälle,Verletzte und Getötete,2011,2011-11-01,16.0
+452,Alkoholunfälle,Verletzte und Getötete,2011,2011-12-01,6.0
+454,Alkoholunfälle,Verletzte und Getötete,2010,2010-01-01,7.0
+455,Alkoholunfälle,Verletzte und Getötete,2010,2010-02-01,10.0
+456,Alkoholunfälle,Verletzte und Getötete,2010,2010-03-01,12.0
+457,Alkoholunfälle,Verletzte und Getötete,2010,2010-04-01,25.0
+458,Alkoholunfälle,Verletzte und Getötete,2010,2010-05-01,15.0
+459,Alkoholunfälle,Verletzte und Getötete,2010,2010-06-01,20.0
+460,Alkoholunfälle,Verletzte und Getötete,2010,2010-07-01,29.0
+461,Alkoholunfälle,Verletzte und Getötete,2010,2010-08-01,25.0
+462,Alkoholunfälle,Verletzte und Getötete,2010,2010-09-01,26.0
+463,Alkoholunfälle,Verletzte und Getötete,2010,2010-10-01,13.0
+464,Alkoholunfälle,Verletzte und Getötete,2010,2010-11-01,7.0
+465,Alkoholunfälle,Verletzte und Getötete,2010,2010-12-01,12.0
+467,Alkoholunfälle,Verletzte und Getötete,2009,2009-01-01,7.0
+468,Alkoholunfälle,Verletzte und Getötete,2009,2009-02-01,12.0
+469,Alkoholunfälle,Verletzte und Getötete,2009,2009-03-01,5.0
+470,Alkoholunfälle,Verletzte und Getötete,2009,2009-04-01,31.0
+471,Alkoholunfälle,Verletzte und Getötete,2009,2009-05-01,34.0
+472,Alkoholunfälle,Verletzte und Getötete,2009,2009-06-01,19.0
+473,Alkoholunfälle,Verletzte und Getötete,2009,2009-07-01,27.0
+474,Alkoholunfälle,Verletzte und Getötete,2009,2009-08-01,26.0
+475,Alkoholunfälle,Verletzte und Getötete,2009,2009-09-01,18.0
+476,Alkoholunfälle,Verletzte und Getötete,2009,2009-10-01,15.0
+477,Alkoholunfälle,Verletzte und Getötete,2009,2009-11-01,5.0
+478,Alkoholunfälle,Verletzte und Getötete,2009,2009-12-01,14.0
+480,Alkoholunfälle,Verletzte und Getötete,2008,2008-01-01,8.0
+481,Alkoholunfälle,Verletzte und Getötete,2008,2008-02-01,16.0
+482,Alkoholunfälle,Verletzte und Getötete,2008,2008-03-01,9.0
+483,Alkoholunfälle,Verletzte und Getötete,2008,2008-04-01,10.0
+484,Alkoholunfälle,Verletzte und Getötete,2008,2008-05-01,37.0
+485,Alkoholunfälle,Verletzte und Getötete,2008,2008-06-01,32.0
+486,Alkoholunfälle,Verletzte und Getötete,2008,2008-07-01,24.0
+487,Alkoholunfälle,Verletzte und Getötete,2008,2008-08-01,23.0
+488,Alkoholunfälle,Verletzte und Getötete,2008,2008-09-01,28.0
+489,Alkoholunfälle,Verletzte und Getötete,2008,2008-10-01,19.0
+490,Alkoholunfälle,Verletzte und Getötete,2008,2008-11-01,14.0
+491,Alkoholunfälle,Verletzte und Getötete,2008,2008-12-01,20.0
+493,Alkoholunfälle,Verletzte und Getötete,2007,2007-01-01,13.0
+494,Alkoholunfälle,Verletzte und Getötete,2007,2007-02-01,15.0
+495,Alkoholunfälle,Verletzte und Getötete,2007,2007-03-01,14.0
+496,Alkoholunfälle,Verletzte und Getötete,2007,2007-04-01,27.0
+497,Alkoholunfälle,Verletzte und Getötete,2007,2007-05-01,39.0
+498,Alkoholunfälle,Verletzte und Getötete,2007,2007-06-01,27.0
+499,Alkoholunfälle,Verletzte und Getötete,2007,2007-07-01,38.0
+500,Alkoholunfälle,Verletzte und Getötete,2007,2007-08-01,20.0
+501,Alkoholunfälle,Verletzte und Getötete,2007,2007-09-01,24.0
+502,Alkoholunfälle,Verletzte und Getötete,2007,2007-10-01,18.0
+503,Alkoholunfälle,Verletzte und Getötete,2007,2007-11-01,26.0
+504,Alkoholunfälle,Verletzte und Getötete,2007,2007-12-01,20.0
+506,Alkoholunfälle,Verletzte und Getötete,2006,2006-01-01,21.0
+507,Alkoholunfälle,Verletzte und Getötete,2006,2006-02-01,21.0
+508,Alkoholunfälle,Verletzte und Getötete,2006,2006-03-01,14.0
+509,Alkoholunfälle,Verletzte und Getötete,2006,2006-04-01,16.0
+510,Alkoholunfälle,Verletzte und Getötete,2006,2006-05-01,28.0
+511,Alkoholunfälle,Verletzte und Getötete,2006,2006-06-01,22.0
+512,Alkoholunfälle,Verletzte und Getötete,2006,2006-07-01,37.0
+513,Alkoholunfälle,Verletzte und Getötete,2006,2006-08-01,25.0
+514,Alkoholunfälle,Verletzte und Getötete,2006,2006-09-01,35.0
+515,Alkoholunfälle,Verletzte und Getötete,2006,2006-10-01,24.0
+516,Alkoholunfälle,Verletzte und Getötete,2006,2006-11-01,22.0
+517,Alkoholunfälle,Verletzte und Getötete,2006,2006-12-01,21.0
+519,Alkoholunfälle,Verletzte und Getötete,2005,2005-01-01,13.0
+520,Alkoholunfälle,Verletzte und Getötete,2005,2005-02-01,14.0
+521,Alkoholunfälle,Verletzte und Getötete,2005,2005-03-01,13.0
+522,Alkoholunfälle,Verletzte und Getötete,2005,2005-04-01,19.0
+523,Alkoholunfälle,Verletzte und Getötete,2005,2005-05-01,21.0
+524,Alkoholunfälle,Verletzte und Getötete,2005,2005-06-01,31.0
+525,Alkoholunfälle,Verletzte und Getötete,2005,2005-07-01,26.0
+526,Alkoholunfälle,Verletzte und Getötete,2005,2005-08-01,33.0
+527,Alkoholunfälle,Verletzte und Getötete,2005,2005-09-01,50.0
+528,Alkoholunfälle,Verletzte und Getötete,2005,2005-10-01,35.0
+529,Alkoholunfälle,Verletzte und Getötete,2005,2005-11-01,14.0
+530,Alkoholunfälle,Verletzte und Getötete,2005,2005-12-01,12.0
+532,Alkoholunfälle,Verletzte und Getötete,2004,2004-01-01,10.0
+533,Alkoholunfälle,Verletzte und Getötete,2004,2004-02-01,21.0
+534,Alkoholunfälle,Verletzte und Getötete,2004,2004-03-01,18.0
+535,Alkoholunfälle,Verletzte und Getötete,2004,2004-04-01,10.0
+536,Alkoholunfälle,Verletzte und Getötete,2004,2004-05-01,30.0
+537,Alkoholunfälle,Verletzte und Getötete,2004,2004-06-01,25.0
+538,Alkoholunfälle,Verletzte und Getötete,2004,2004-07-01,44.0
+539,Alkoholunfälle,Verletzte und Getötete,2004,2004-08-01,47.0
+540,Alkoholunfälle,Verletzte und Getötete,2004,2004-09-01,41.0
+541,Alkoholunfälle,Verletzte und Getötete,2004,2004-10-01,26.0
+542,Alkoholunfälle,Verletzte und Getötete,2004,2004-11-01,20.0
+543,Alkoholunfälle,Verletzte und Getötete,2004,2004-12-01,12.0
+545,Alkoholunfälle,Verletzte und Getötete,2003,2003-01-01,18.0
+546,Alkoholunfälle,Verletzte und Getötete,2003,2003-02-01,16.0
+547,Alkoholunfälle,Verletzte und Getötete,2003,2003-03-01,17.0
+548,Alkoholunfälle,Verletzte und Getötete,2003,2003-04-01,25.0
+549,Alkoholunfälle,Verletzte und Getötete,2003,2003-05-01,26.0
+550,Alkoholunfälle,Verletzte und Getötete,2003,2003-06-01,41.0
+551,Alkoholunfälle,Verletzte und Getötete,2003,2003-07-01,35.0
+552,Alkoholunfälle,Verletzte und Getötete,2003,2003-08-01,40.0
+553,Alkoholunfälle,Verletzte und Getötete,2003,2003-09-01,26.0
+554,Alkoholunfälle,Verletzte und Getötete,2003,2003-10-01,17.0
+555,Alkoholunfälle,Verletzte und Getötete,2003,2003-11-01,31.0
+556,Alkoholunfälle,Verletzte und Getötete,2003,2003-12-01,27.0
+558,Alkoholunfälle,Verletzte und Getötete,2002,2002-01-01,24.0
+559,Alkoholunfälle,Verletzte und Getötete,2002,2002-02-01,22.0
+560,Alkoholunfälle,Verletzte und Getötete,2002,2002-03-01,21.0
+561,Alkoholunfälle,Verletzte und Getötete,2002,2002-04-01,28.0
+562,Alkoholunfälle,Verletzte und Getötete,2002,2002-05-01,32.0
+563,Alkoholunfälle,Verletzte und Getötete,2002,2002-06-01,42.0
+564,Alkoholunfälle,Verletzte und Getötete,2002,2002-07-01,40.0
+565,Alkoholunfälle,Verletzte und Getötete,2002,2002-08-01,29.0
+566,Alkoholunfälle,Verletzte und Getötete,2002,2002-09-01,51.0
+567,Alkoholunfälle,Verletzte und Getötete,2002,2002-10-01,53.0
+568,Alkoholunfälle,Verletzte und Getötete,2002,2002-11-01,10.0
+569,Alkoholunfälle,Verletzte und Getötete,2002,2002-12-01,27.0
+571,Alkoholunfälle,Verletzte und Getötete,2001,2001-01-01,36.0
+572,Alkoholunfälle,Verletzte und Getötete,2001,2001-02-01,20.0
+573,Alkoholunfälle,Verletzte und Getötete,2001,2001-03-01,36.0
+574,Alkoholunfälle,Verletzte und Getötete,2001,2001-04-01,32.0
+575,Alkoholunfälle,Verletzte und Getötete,2001,2001-05-01,32.0
+576,Alkoholunfälle,Verletzte und Getötete,2001,2001-06-01,46.0
+577,Alkoholunfälle,Verletzte und Getötete,2001,2001-07-01,35.0
+578,Alkoholunfälle,Verletzte und Getötete,2001,2001-08-01,21.0
+579,Alkoholunfälle,Verletzte und Getötete,2001,2001-09-01,48.0
+580,Alkoholunfälle,Verletzte und Getötete,2001,2001-10-01,37.0
+581,Alkoholunfälle,Verletzte und Getötete,2001,2001-11-01,25.0
+582,Alkoholunfälle,Verletzte und Getötete,2001,2001-12-01,23.0
+584,Alkoholunfälle,Verletzte und Getötete,2000,2000-01-01,37.0
+585,Alkoholunfälle,Verletzte und Getötete,2000,2000-02-01,19.0
+586,Alkoholunfälle,Verletzte und Getötete,2000,2000-03-01,18.0
+587,Alkoholunfälle,Verletzte und Getötete,2000,2000-04-01,26.0
+588,Alkoholunfälle,Verletzte und Getötete,2000,2000-05-01,44.0
+589,Alkoholunfälle,Verletzte und Getötete,2000,2000-06-01,32.0
+590,Alkoholunfälle,Verletzte und Getötete,2000,2000-07-01,37.0
+591,Alkoholunfälle,Verletzte und Getötete,2000,2000-08-01,32.0
+592,Alkoholunfälle,Verletzte und Getötete,2000,2000-09-01,45.0
+593,Alkoholunfälle,Verletzte und Getötete,2000,2000-10-01,31.0
+594,Alkoholunfälle,Verletzte und Getötete,2000,2000-11-01,24.0
+595,Alkoholunfälle,Verletzte und Getötete,2000,2000-12-01,31.0
